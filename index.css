@@ -1,0 +1,42 @@
+.text-orange {
+    color: rgba(255, 166, 0, 0.90);
+}
+
+html {
+    scroll-behavior: smooth;
+}
+
+#imgHolder {
+    height: 50%;
+}
+
+.bg-gray {
+    background-color: rgba(105, 105, 105, 0.5);
+}
+
+.bg-panel {
+    background-color: rgba(85, 57, 4, 0.4);
+}
+
+.text-black {
+    color: black;
+}
+
+.selectDisable {
+    -webkit-user-select: none;
+    -khtml-user-select: none;
+    -moz-user-select: none;
+    -o-user-select: none;
+    user-select: none;
+}
+
+.carousel-indicators .active {
+    background-color: orange;
+}
+
+body {
+    background-image: url("dnt.png");
+    background-position: center bottom;
+    background-size: 70vw 88vh;
+    background-repeat: no-repeat;
+}
